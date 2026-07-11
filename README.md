@@ -1,2 +1,2 @@
-# T-DRONE
-A Drone frame 3d model 
+# TDrone - An open source frame with 3D printed mount for flying and racing!
+
