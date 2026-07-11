@@ -54,4 +54,6 @@ The Frame includes designed parts mounting as internal layout for simple install
 > - Use quality fasteners and bearings to improve reliability
 > - Balance the aircraft's center of gravity before every flight
 
+# AI USAGE
+AI was only used in measurement and resreach. NO ai was used in Modeling, Documenting and anyother implimentation!
 
