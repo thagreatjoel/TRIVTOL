@@ -8,7 +8,7 @@
 
 
 > [!NOTE]
-> Unlike normal quadcopter, It uses three brushless motors and 2 servo to get vertical flight
+> Unlike normal quadcopter, It can fly like plane as well ad drone
 
 
 # GOALS
@@ -27,13 +27,19 @@
 <br>
 
 
-The tilt machanism enables the front tip of wing rotates between and vertical and horisontal positions for the VTOL machanism and forward flight. Each front motor is mounted on a rotating shaft. it rotates using high torque gear servo is connect by the flight controller
+The tilt machanism enables the front tip of wing rotates between and vertical and horisontal positions for the VTOL machanism and forward flight. <br>
+Each front motor is mounted on a rotating shaft. it rotates using high torque gear servo is connect by the flight controller
 
 <br clear="left">
+
 <h2>FRAME DESIGN</h2>
-<img width="250"  alt="parts" src="https://github.com/user-attachments/assets/b21cf965-299e-4fc7-befe-d12a3edff348" />
+<img align="left" width="250" alt="parts" src="https://github.com/user-attachments/assets/b21cf965-299e-4fc7-befe-d12a3edff348"/>
+<br>
+
+The Frame includes designed parts mounting as internal layout for simple installaton for eletronic parts. It can help utilise maximum space inside
 
 
+<br clear="left">
 
 
 
