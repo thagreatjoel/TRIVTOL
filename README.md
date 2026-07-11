@@ -32,8 +32,10 @@ Each front motor is mounted on a rotating shaft. it rotates using high torque ge
 
 <br clear="left">
 
+
 <h2>FRAME DESIGN</h2>
 <img align="left" width="250" alt="parts" src="https://github.com/user-attachments/assets/b21cf965-299e-4fc7-befe-d12a3edff348"/>
+
 <br>
 
 The Frame includes designed parts mounting as internal layout for simple installaton for eletronic parts. It can help utilise maximum space inside
@@ -41,8 +43,15 @@ The Frame includes designed parts mounting as internal layout for simple install
 
 <br clear="left">
 
+# ONSHAPE 
+
+[Onshape Link](https://cad.onshape.com/documents/02b1b7f470ff30ec4397c9e2/w/e0ff0c510ae1f7985733e3a2/e/77e423b32523047dd2e330b0?renderMode=0&uiState=6a51db1b7bfb4048abab0003)
 
 
 
-https://cad.onshape.com/documents/02b1b7f470ff30ec4397c9e2/w/e0ff0c510ae1f7985733e3a2/e/77e423b32523047dd2e330b0?renderMode=0&uiState=6a51db1b7bfb4048abab0003
-hi
+> [!NOTE]
+> - Select the motor 2122/2814 (recommended)
+> - Use quality fasteners and bearings to improve reliability
+> - Balance the aircraft's center of gravity before every flight
+
+
