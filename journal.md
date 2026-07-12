@@ -1,3 +1,11 @@
+---
+title: "TRIVOTL"
+author: "thagreatjoel"
+description: "A drone with 3 motor having vertical and horizontal race"
+created_at: "2024-05-12"
+---
+
+
 > [!WARNING]  
 > <b>This journal is not fully acurate </b> 
 
